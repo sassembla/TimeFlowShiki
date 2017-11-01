@@ -1,6 +1,6 @@
-#TimeFlowShiki
+# TimeFlowShiki
 
 Timeline GUI skeleton.
 
-##License
+## License
 MIT
